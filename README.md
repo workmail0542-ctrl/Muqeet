@@ -8,3 +8,4 @@ Anitroves is a comprehensive platform for the anime community, featuring advance
 * **Manga & Watchlists:** Track your progress seamlessly.
 
 Check us out at: **[https://anitroves.com](https://anitroves.com)**
+Latest Write-up: [How I Built a Real-Time AI Anime Discovery Engine]([https://dev.to/muqeet/...](https://dev.to/muqeet/how-i-built-a-real-time-ai-anime-discovery-engine-for-2026-a-technical-deep-dive-543o))
